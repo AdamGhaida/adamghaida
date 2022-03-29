@@ -1,3 +1,1 @@
-# AdamGhaida.github.io
-
-# hello jana
+# The Personal Website of Adam
